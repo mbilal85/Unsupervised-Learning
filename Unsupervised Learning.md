@@ -152,7 +152,7 @@ plt.show()
 ```
 
 
-![png](output_8_0.png)
+![output_8_0](https://user-images.githubusercontent.com/49030506/83438758-faf44a80-a40f-11ea-9aae-7063623660b5.png)
 
 
 The inertia decreases very slowly from 3 clusters to 4, so it looks like 3 clusters would be a good choice for this data.
@@ -970,7 +970,7 @@ plt.show()
 ```
 
 
-![png](output_41_0.png)
+![output_41_0](https://user-images.githubusercontent.com/49030506/83438761-faf44a80-a40f-11ea-8df5-15b5b22b8ba2.png)
 
 
 Dendrograms are a great way to illustrate the arrangement of the clusters produced by hierarchical clustering.
@@ -1065,7 +1065,7 @@ plt.show()
 ```
 
 
-![png](output_50_0.png)
+![output_50_0](https://user-images.githubusercontent.com/49030506/83438762-faf44a80-a40f-11ea-88d6-88f7e495c3fe.png)
 
 
 We can produce great visualizations such as this with hierarchical clustering, but it can be used for more than just visualizations.
@@ -1224,7 +1224,7 @@ plt.show()
 ```
 
 
-![png](output_62_0.png)
+![output_62_0](https://user-images.githubusercontent.com/49030506/83438763-faf44a80-a40f-11ea-93d2-ac819a9757ba.png)
 
 
 
@@ -1295,7 +1295,7 @@ plt.show()
 ```
 
 
-![png](output_66_0.png)
+![output_66_0](https://user-images.githubusercontent.com/49030506/83438764-fb8ce100-a40f-11ea-902d-88105c679004.png)
 
 
 
@@ -1615,7 +1615,7 @@ plt.show()
 ```
 
 
-![png](output_74_0.png)
+![output_74_0](https://user-images.githubusercontent.com/49030506/83438768-fb8ce100-a40f-11ea-8cca-0a790e06f0b3.png)
 
 
 As we can see, the t-SNE visualization manages to separate the 3 varieties of grain samples. But how will it perform on the stock data? We'll find out next. 
@@ -1654,7 +1654,7 @@ plt.show()
 ```
 
 
-![png](output_77_0.png)
+![output_77_0](https://user-images.githubusercontent.com/49030506/83438770-fb8ce100-a40f-11ea-837d-009d6d0ba665.png)
 
 
 It's visualizations such as this that make t-SNE such a powerful tool for extracting quick insights from high dimensional data.
@@ -1766,7 +1766,7 @@ print(correlation)
 ```
 
 
-![png](output_84_0.png)
+![output_84_0](https://user-images.githubusercontent.com/49030506/83438771-fb8ce100-a40f-11ea-91cd-e7edef48be4d.png)
 
 
     0.8604149377143466
@@ -1804,7 +1804,7 @@ print(correlation)
 ```
 
 
-![png](output_86_0.png)
+![output_86_0](https://user-images.githubusercontent.com/49030506/83438772-fc257780-a40f-11ea-9172-5bc3b279d729.png)
 
 
     1.0408340855860843e-16
@@ -1851,7 +1851,7 @@ plt.show()
 ```
 
 
-![png](output_90_0.png)
+![output_90_0](https://user-images.githubusercontent.com/49030506/83438773-fc257780-a40f-11ea-876e-e4ddf3da11e1.png)
 
 
 Red line shows the direction in which the grain data varies the most.
@@ -1892,7 +1892,7 @@ plt.show()
 ```
 
 
-![png](output_93_0.png)
+![output_93_0](https://user-images.githubusercontent.com/49030506/83438774-fc257780-a40f-11ea-8582-c106b28a2f23.png)
 
 
 Since PCA features 0 and 1 have significant variance, the intrinsic dimension of this dataset appears to be 2.
@@ -2719,7 +2719,7 @@ plt.show()
 
 
 
-![png](output_133_1.png)
+![output_133_1](https://user-images.githubusercontent.com/49030506/83438775-fc257780-a40f-11ea-986e-fd755264c597.png)
 
 
 I'll explore this dataset further in the next exercise and see how NMF can learn the parts of images.
@@ -2776,31 +2776,31 @@ print(digit_features)
 ```
 
 
-![png](output_137_0.png)
+![output_137_0](https://user-images.githubusercontent.com/49030506/83438776-fc257780-a40f-11ea-8639-26ae92d7f027.png)
 
 
 
-![png](output_137_1.png)
+![output_137_1](https://user-images.githubusercontent.com/49030506/83438778-fcbe0e00-a40f-11ea-983b-b1f7bd2d9edf.png)
 
 
 
-![png](output_137_2.png)
+![output_137_2](https://user-images.githubusercontent.com/49030506/83438780-fcbe0e00-a40f-11ea-8782-9f28bd22008d.png)
 
 
 
-![png](output_137_3.png)
+![output_137_3](https://user-images.githubusercontent.com/49030506/83438781-fcbe0e00-a40f-11ea-8443-13cf84f167c1.png)
 
 
 
-![png](output_137_4.png)
+![output_137_4](https://user-images.githubusercontent.com/49030506/83438782-fd56a480-a40f-11ea-9218-8d9a1a84e5c3.png)
 
 
 
-![png](output_137_5.png)
+![output_137_5](https://user-images.githubusercontent.com/49030506/83438783-fd56a480-a40f-11ea-96b0-b008362b412b.png)
 
 
 
-![png](output_137_6.png)
+![output_137_6](https://user-images.githubusercontent.com/49030506/83438784-fd56a480-a40f-11ea-9872-8baa43560c49.png)
 
 
     [4.76823559e-01 0.00000000e+00 0.00000000e+00 5.90605054e-01
@@ -2832,31 +2832,31 @@ for component in model.components_:
 ```
 
 
-![png](output_140_0.png)
+![output_140_0](https://user-images.githubusercontent.com/49030506/83438785-fd56a480-a40f-11ea-924d-dd7a71a7ae7a.png)
 
 
 
-![png](output_140_1.png)
+![output_140_1](https://user-images.githubusercontent.com/49030506/83438786-fdef3b00-a40f-11ea-98c4-3c5f724fac1a.png)
 
 
 
-![png](output_140_2.png)
+![output_140_2](https://user-images.githubusercontent.com/49030506/83438788-fdef3b00-a40f-11ea-98a4-455546f5dd0a.png)
 
 
 
-![png](output_140_3.png)
+![output_140_3](https://user-images.githubusercontent.com/49030506/83438791-fdef3b00-a40f-11ea-8bd2-b7cbb814be05.png)
 
 
 
-![png](output_140_4.png)
+![output_140_4](https://user-images.githubusercontent.com/49030506/83438792-fdef3b00-a40f-11ea-9ded-db418f7366a2.png)
 
 
 
-![png](output_140_5.png)
+![output_140_5](https://user-images.githubusercontent.com/49030506/83438793-fe87d180-a40f-11ea-8e6a-9ef9818a8684.png)
 
 
 
-![png](output_140_6.png)
+![output_140_6](https://user-images.githubusercontent.com/49030506/83438794-fe87d180-a40f-11ea-9cc0-d900dd06dc20.png)
 
 
 Noticing that the components of PCA do not represent meaningful parts of images of LED digits!
@@ -3245,11 +3245,11 @@ plt.show()
 ```
 
 
-![png](output_157_0.png)
+![output_157_0](https://user-images.githubusercontent.com/49030506/83438796-fe87d180-a40f-11ea-874c-b6a6168be956.png)
 
 
 
-![png](output_157_1.png)
+![output_157_1](https://user-images.githubusercontent.com/49030506/83438798-fe87d180-a40f-11ea-8d0e-11d68d90ea7c.png)
 
 
 It can be seen from the chart that customers with lowest and highest incomes are spending the most. Poeple with middle income are spending money modelately. Approximately half of the high income customers are not spending much. This information can be really insightful for any company to develop strategies and target their customers more effectively.  
